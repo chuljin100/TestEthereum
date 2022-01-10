@@ -1,0 +1,1 @@
+geth --datadir second_node --ipcdisable --networkid 1343 --http --http.api web3,eth,personal,admin,miner --http.port 8544 --port 30302 --bootnodes "enode://86010262b3f3792d61a31ffccdac704bae170be552b224178c9680c346f790aa12f57292cae97f74cae4fdd443ced4926c81ee69460d5af2084a3fdc9d036ac6@127.0.0.1:30303"

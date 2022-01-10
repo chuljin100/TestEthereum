@@ -1,0 +1,1 @@
+geth --datadir . --networkid 1343 --http --http.api web3,eth,personal,admin,miner --mine --unlock 0xc4d999A2aF7aFb301d2288F15C9920483C370d03 --allow-insecure-unlock 

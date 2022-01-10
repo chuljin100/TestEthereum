@@ -1,0 +1,1 @@
+geth init --datadir second_node poa_genesis.json
